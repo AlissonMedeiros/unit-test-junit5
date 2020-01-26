@@ -7,7 +7,6 @@ class CalculadoraTest {
 
     @Test
     public void teste() {
-        Assertions.fail("");
     }
 
 }
